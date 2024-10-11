@@ -1,0 +1,1 @@
+This is a beginner recipe project made with HTML. It's my first project.
